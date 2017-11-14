@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1510630805 source:/home/lucas/Documentos/projetos/C/trabalho_Pe_cdb/estoque.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"estoque.h"
+	"carrinho.h"
+
+1510630805 /home/lucas/Documentos/projetos/C/trabalho_Pe_cdb/estoque.h
+	"carrinho.h"
+
+1510630805 /home/lucas/Documentos/projetos/C/trabalho_Pe_cdb/carrinho.h
+
+1510630805 source:/home/lucas/Documentos/projetos/C/trabalho_Pe_cdb/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"carrinho.h"
+	"estoque.h"
+
+1510630805 source:/home/lucas/Documentos/projetos/C/trabalho_Pe_cdb/carrinho.c
+	"carrinho.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
